@@ -129,6 +129,6 @@ api sudah siap di gunakan
 | 503 | No Data Available |
 
 ## Note
-Apabila ada kesalahan dalam menuliskan format api silahkan berikan kritik dan sarannya ke email fajarsaputrawebdev19@gmail.com
+Apabila ada kesalahan dalam menuliskan format api silahkan berikan kritik dan sarannya ke email pangestugalang109@gmail.com
 
 Jangan lupa bintangnya :). Jika ini bermanfaat
