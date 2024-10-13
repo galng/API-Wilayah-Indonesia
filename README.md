@@ -130,5 +130,3 @@ api sudah siap di gunakan
 
 ## Note
 Apabila ada kesalahan dalam menuliskan format api silahkan berikan kritik dan sarannya ke email pangestugalang109@gmail.com
-
-Jangan lupa bintangnya :). Jika ini bermanfaat
